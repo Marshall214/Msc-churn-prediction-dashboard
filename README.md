@@ -21,7 +21,7 @@ This repository contains the implementation and supporting files for my MSc Proj
 
 ---
 
-## ⚙️ Features
+## Features
 
 * **Data Preprocessing**: Cleaning, encoding, scaling, and feature engineering (RFM metrics, sentiment scores).
 * **NLP Integration**: Sentiment analysis of customer reviews with polarity features feeding into churn models.
@@ -35,7 +35,7 @@ This repository contains the implementation and supporting files for my MSc Proj
 
 ## Getting Started
 
-### 1️Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/churn-prediction.git
@@ -134,3 +134,12 @@ This project was completed as part of my MSc in Data Science at **Pan-Atlantic U
 ## License
 
 This repository is for **academic purposes**. Commercial use requires permission.
+
+---
+## Author  
+
+**Emmanuel Onuora**  
+MSc Data Science  
+School of Science and Technology  
+Pan-Atlantic University, 2025  
+
