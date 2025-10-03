@@ -1,0 +1,13 @@
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+xgboost==2.1.0
+shap==0.46.0
+lime==0.2.0.1
+matplotlib==3.9.2
+seaborn==0.13.2
+emoji==2.12.1
+vaderSentiment==3.3.2
+joblib==1.4.2
+nltk==3.9.1
